@@ -1,0 +1,8 @@
+$ ./build/miller-rabin
+Enter the prime number you want to do this test for: 97
+Enter the number of rounds you want to perform: 8
+97 is probably prime after 8 rounds
+
+$ ./build/miller-rabin
+Enter the prime number you want to do this test for: 100
+100 is composite (even)

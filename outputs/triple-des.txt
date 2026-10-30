@@ -1,0 +1,7 @@
+$ ./build/triple-des
+Enter the plaintext (16 hex digits): 0123456789ABCDEF
+Enter key 1 (16 hex digits): 0123456789ABCDEF
+Enter key 2 (16 hex digits): 23456789ABCDEF01
+Enter key 3 (16 hex digits): 456789ABCDEF0123
+Encrypted: F2AFD84EE809E2B5
+Decrypted: 0123456789ABCDEF

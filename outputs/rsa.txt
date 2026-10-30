@@ -1,0 +1,9 @@
+$ ./build/rsa
+Enter two distinct primes p and q (2..1000000): 61 53
+Enter the public exponent e: 17
+Enter the integer message (0 <= m < 3233): 65
+n = 3233, phi(n) = 3120
+Public key (e, n): (17, 3233)
+Private key (d, n): (2753, 3233)
+Encrypted: 2790
+Decrypted: 65

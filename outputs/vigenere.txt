@@ -1,0 +1,5 @@
+$ ./build/vigenere
+Enter the message: ATTACK AT DAWN!
+Enter the key: LEMON
+Encrypted: LXFOPV EF RNHR!
+Decrypted: ATTACK AT DAWN!

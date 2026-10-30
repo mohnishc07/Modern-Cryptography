@@ -1,0 +1,5 @@
+$ ./build/des
+Enter the plaintext (16 hex digits): 0123456789ABCDEF
+Enter the key (16 hex digits): 133457799BBCDFF1
+Encrypted: 85E813540F0AB405
+Decrypted: 0123456789ABCDEF

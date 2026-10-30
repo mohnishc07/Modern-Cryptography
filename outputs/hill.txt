@@ -1,0 +1,6 @@
+$ ./build/hill
+Enter the message: HELP
+Enter the 2 x 2 key matrix (row-wise): 3 3 2 5
+Prepared message: HELP
+Encrypted: HIAT
+Decrypted: HELP

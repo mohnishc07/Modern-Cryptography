@@ -1,1 +1,6 @@
+build/
+lab-record/*.aux
+lab-record/*.log
+lab-record/*.out
+lab-record/*.toc
 miller-rabin

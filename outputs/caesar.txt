@@ -1,0 +1,5 @@
+$ ./build/caesar
+Enter the message: Attack at Dawn!
+Enter the shift: 3
+Encrypted: Dwwdfn dw Gdzq!
+Decrypted: Attack at Dawn!

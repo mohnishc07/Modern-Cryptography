@@ -1,0 +1,5 @@
+$ ./build/introduction
+Enter base, exponent and modulus: 7 128 26
+GCD: 1
+Modular power: 3
+Modular inverse: 15

@@ -1,0 +1,5 @@
+$ ./build/one-time-pad
+Enter the message: HELLO
+Enter the one-time key in hex (2 digits per byte): 1A2B3C4D5E
+Ciphertext (hex): 526E700111
+Decrypted: HELLO

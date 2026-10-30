@@ -1,0 +1,5 @@
+$ ./build/feistel
+Enter a 32-bit block in hex: 12345678
+Enter four 16-bit round keys in hex: 1111 2222 3333 4444
+Encrypted: 2FA81B57
+Decrypted: 12345678
