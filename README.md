@@ -4,6 +4,19 @@ C++17 laboratory programs corresponding to the nine experiments in the record in
 Each program is standalone and uses only C++ headers. No cryptography library is
 needed to build or run it.
 
+The [PDF laboratory record](lab-record/Modern_Cryptography_Lab_Record.pdf) and
+[standalone LaTeX source](lab-record/Modern_Cryptography_Lab_Record.tex) contain
+the question, complete C++ program and captured terminal output for every entry.
+
+To rebuild the PDF, run the following command twice from `lab-record/`:
+
+```bash
+pdflatex -interaction=nonstopmode -halt-on-error Modern_Cryptography_Lab_Record.tex
+```
+
+The `.tex` file embeds every program and transcript, so it compiles independently
+of the repository's source files. It uses standard TeX Live packages.
+
 | Experiment | Date | Program |
 | --- | --- | --- |
 | 1. Introduction: modular arithmetic | 13.07.2026 | `introduction.cpp` |
